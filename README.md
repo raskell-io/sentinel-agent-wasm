@@ -272,4 +272,4 @@ RUST_LOG=debug cargo run -- --socket /tmp/test.sock --module ./examples/wasm-mod
 
 ## License
 
-MIT OR Apache-2.0
+Apache-2.0
